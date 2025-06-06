@@ -1,0 +1,71 @@
+/* About Section Styles - Dark Theme */
+.about.section {
+  background: linear-gradient(135deg, #1e1e2f 0%, #2c2c3e 100%);
+  color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 4rem 1.5rem;
+  border-top: 4px solid #ff6b6b;
+}
+
+.about.section h2 {
+  font-size: 3rem;
+  color: #ff6b6b;
+  margin-bottom: 1.5rem;
+}
+
+.about.section p {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  max-width: 850px;
+  margin: 0.75rem 0;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.about.section h3 {
+  font-size: 2.2rem;
+  color: #f5f5f5;
+  margin: 2rem 0 1rem;
+  border-bottom: 2px solid #ff6b6b;
+  padding-bottom: 0.5rem;
+}
+
+.about-list {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  margin: 1rem 0 2rem;
+}
+
+.about-list li {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  font-weight: 600;
+  color: #ffdddd;
+  transition: background 0.3s ease;
+}
+
+.about-list li:hover {
+  background: #ff6b6b;
+  color: #1e1e2f;
+  cursor: pointer;
+}
+.about.section p {
+  padding: 1.2rem 1.8rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.about-list li {
+  text-align: left;
+  max-width: 600px;
+}

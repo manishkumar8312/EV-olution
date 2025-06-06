@@ -23,3 +23,28 @@
     background: #fff;
     color: #262626;
 }
+.nav-signin {
+    padding: 10px 20px;
+    background: #00CFFF;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.nav-signin:hover {
+    background: #008fb3;
+}
+/* Sign Out Button */
+.nav-signout {
+  padding: 10px 20px;
+  background: #ff4b5c;
+  color: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background 0.3s ease;
+}
+.nav-signout:hover {
+  background: #c0392b;
+}
