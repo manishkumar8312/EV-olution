@@ -1,7 +1,7 @@
 ```markdown
 # ⚡ EV-olution
 
-**EV-olution** is a modern React-based web application built to promote electric vehicle adoption and awareness. It offers interactive dashboards, real-time data visualization, and charging station tracking to empower EV users and enthusiasts.
+EV-olution is a modern React-based web application built to promote electric vehicle adoption and awareness. It offers interactive dashboards, real-time data visualization, and charging station tracking to empower EV users and enthusiasts.
 
 ## 🧩 Features
 
