@@ -70,7 +70,7 @@ EV-olution/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EV-olution.git
+git clone https://github.com/manishkumar8312/EV-olution.git
 cd EV-olution
 ````
 
